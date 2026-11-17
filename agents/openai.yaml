@@ -1,0 +1,4 @@
+interface:
+  display_name: "Better Solution"
+  short_description: "从工程证据检索策略，用留出任务验证正确性与成本收益，保留不确定结论"
+  default_prompt: "使用 $better-solution 检查当前任务可复用的策略，并用真实证据判断适用范围。"
